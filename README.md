@@ -2,11 +2,10 @@
 <p align="center">
   <img src="helloothere.gif" alt="Banner"></a>
 </p>
-<h1 align="center">Aloha~ I'm Chelsea!</h1>
+<h1 align="center">Aloha~ I'm Chelsea!🙋‍♀️</h1>
 <!-- End of html-->
 
-
-### About Me:
+### About Me🦦:
   ```python
  class aboutMe:
  	fullName = 'Chelsea Alonjang'
@@ -17,8 +16,10 @@
 				'On my leetcode grind'
 			]
    ```
+#
+
 <!-- Start of langauges-->
-### Languages and Frameworks
+### Languages and Frameworks🖥:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -29,6 +30,12 @@
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 <!-- End of langauges-->
 
-### Contact me:
+#
+
+### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Contact me📲:
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+
