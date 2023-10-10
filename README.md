@@ -40,3 +40,6 @@
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chelsea-alonjang/)
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://tigernet365-my.sharepoint.com/:b:/g/personal/c_alonjang7933_student_tsu_edu/Ecuzn_mCUUhCpZRVF2DBoRYBPrkRQCJ3dut5bZXLaag4_w)
 
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chelseph)](https://github.com/anuraghazra/github-readme-stats)
