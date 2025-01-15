@@ -38,7 +38,7 @@
 ### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Contact me📲:
 
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chelsea-alonjang/)
-[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://docs.google.com/document/d/1xeoyS9fyEyBtojy-bp7GDbmbjNSI53cVjwyB9MpQYKc/edit?usp=sharing)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://drive.google.com/file/d/1WmysY6b1cLlQzEYAIg61vIFEQ614uddf/view?usp=sharing)
 
 #
 
