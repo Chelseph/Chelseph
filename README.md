@@ -9,7 +9,7 @@
   ```python
  class aboutMe:
  	fullName = 'Chelsea Alonjang'
-		current_work = 'Attempting to graduate'
+		current_work = 'Attempting to get employed'
 		hobbies = [
 				'Reading Dark Fantasy novels',
 				'Playing Video Games',
